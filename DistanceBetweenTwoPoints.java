@@ -1,5 +1,4 @@
 import java.util.*;
-
 public class DistanceBetweenTwoPoints{
     public static void main(String args[]){
         int x1,x2,y1,y2;
